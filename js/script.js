@@ -1,3 +1,5 @@
+"use strict"
+
 let currentIndex = 0;
 
 const showSlide = (index) => {
